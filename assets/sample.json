@@ -1,0 +1,22 @@
+{
+    "user_id": "5840b954da0529cd293d76fe",
+    "email": "xyz@gmail.com",
+    "username": "@dkvekariya",
+    "first_name": "Divyesh",
+    "last_name": "Vekariya",
+    "organization": "canopas",
+    "joined_on": "10 May, 2021",
+    "about": "Senior iOS Developer at Canopas, having so many strong skills like strong knowledge of SwiftUI, swift, imperative and declarative UI, version control with git, good at communication, collaborative, and having 3 years of experience with iOS development and currently learning Flutter framework.",
+    "website": "www.divyesh.com",
+    "email": "xyz@gmail.com",
+    "phone": "+91 999999999",
+    "skills": [
+        "iOS developer",
+        "Flutter developer",
+        "Xcode",
+        "Version control",
+        "Team Management",
+        "UI UX",
+        "Cocoapods"
+    ]
+}
